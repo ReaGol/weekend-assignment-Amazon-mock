@@ -1,0 +1,8 @@
+@font-face { font-family: "Amazon Ember"; src: url("")
+
+If you want use the links instead of font files copy these into url(""):
+
+Ember Regular--> https://m.media-amazon.com/images/S/sash/pDxWAF1pBB0dzGB.woff2
+Ember Italic --> https://m.media-amazon.com/images/S/sash/WOnTLzkiaEccV7F.woff2
+Ember Bold --> https://m.media-amazon.com/images/S/sash/KFPk-9IF4FqAqY-.woff2
+

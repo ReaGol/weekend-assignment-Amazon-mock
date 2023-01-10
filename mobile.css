@@ -1,0 +1,215 @@
+@media(max-width:950px) and (min-width:501px){
+    main{
+        max-width:100vw;
+        
+    }
+    .container{
+        height:100vh;
+    }
+    .container2{
+        height:70vh;
+    }
+
+    .ad img {
+      visibility: hidden;
+    }
+    .navbar{
+        height: 20vh;
+        width:100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .mobile-div{
+        display: flex;
+        
+
+    }
+    .ships-to{
+        display:none;
+    }
+    .cart-img{
+    display: none;
+    }
+    .flag{
+        display: none;
+    }
+    .returns{
+        display: none;
+    }
+    .sign-in{
+        display: none;
+        
+    }
+
+    .sign-in2{
+        display:contents;
+        
+    }
+    
+
+    .sign-in2 img{
+        max-width:120px;
+        margin-left: 30vw;
+    }
+
+    .cart2{
+        display:contents;
+        
+    }
+    .cart2 img{
+        max-width:50px;
+        margin-left: 5vw;
+        margin-left: 2%;
+    }
+
+    form input{
+        width:90vw;
+    }
+
+    .nav-progressive{
+        display: none;
+    }
+    .details{
+        width:30vw;
+    }
+
+    .cart{
+        height:150vh;
+        width: 20%
+    }
+
+    .container{
+        height: 200vh;
+    }
+    .container2{
+        flex-direction: column;
+    }
+    .other-container{
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:500px){
+    /**navbar**/
+    main{
+        max-width:100%;
+        
+    }
+    .navbar{
+        height: 20vh;
+        width:100vw;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .mobile-div{
+        display: flex;
+        
+
+    }
+    .ships-to{
+        display:none;
+    }
+    .cart-img{
+    display: none;
+    }
+    .flag{
+        display: none;
+    }
+    .returns{
+        display: none;
+    }
+    .sign-in{
+        display: none;
+        
+    }
+
+    .sign-in2{
+        display:contents;
+        
+    }
+    
+
+    .sign-in2 img{
+        max-width:120px;
+        margin-left: 30vw;
+    }
+
+    .cart2{
+        display:contents;
+        
+    }
+    .cart2 img{
+        max-width:50px;
+        margin-left: 5vw;
+        margin-left: 2%;
+    }
+
+    form input{
+        width:90vw;
+    }
+
+    .nav-progressive{
+        display: none;
+    }
+    /**main**/
+    .container{
+    flex-direction: column;
+    }
+
+    .gallery{
+        width:95%;
+        height:70vh;
+        margin: 0;
+    }
+
+    .mini{
+        display: none;
+    }
+    .describe{
+        width:100%;
+        height:150vh;
+    }
+    .details{
+        width:70vw;
+    }
+    .cart{
+        width:100%;
+        height: 20%;
+    }
+
+
+/**footer**/
+
+.container2{
+    flex-direction: column;
+}
+.other-container{
+    display: none;
+}
+.car4{
+    display: none;
+}
+.car5{
+    display: none;
+}
+.car6{
+    display: none;
+}
+
+}
